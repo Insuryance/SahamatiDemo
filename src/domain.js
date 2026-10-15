@@ -35,9 +35,9 @@ export const SOURCES = {
     icon: "shield",
   },
   care: {
-    name: "Care history",
+    name: "Insurer history",
     subtitle: "Reuse your previous records",
-    provider: "Simulated Care internal records",
+    provider: "Simulated Insurer internal records",
     facts: [
       "Previous proposal · Aug 2026",
       "Identity matched to Aarav Sharma",
