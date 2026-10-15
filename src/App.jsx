@@ -709,7 +709,7 @@ function App() {
                                         ? key === "abdm"
                                           ? "Share linked health reports with separate permission. An ABHA ID alone does not give access to records."
                                           : key === "care"
-                                            ? "If you have dealt with Care before, choose whether to share your previous policy or medical records."
+                                            ? "If you have dealt with Insurance A before, choose whether to share your previous policy or medical records."
                                             : key === "bank"
                                               ? "Check regular income and expenses to understand your budget. Banking data is never used to assess your health."
                                               : "Check which family members and benefits are actually covered."
@@ -1713,7 +1713,7 @@ function App() {
             <Eye size={18} />
             <p>
               <strong>Be clear about what’s simulated.</strong> The screens and
-              workflow work. AA, ABDM, Care services, plan terms and insurer
+              workflow work. AA, ABDM, Insurer services, plan terms and insurer
               decisions use fixed sample data. There are no real integrations or
               measured pilot results.
             </p>
